@@ -27,14 +27,11 @@ Run the setup.exe application
 
 <br>
 
-## 🔧 Cloning to Visual Studio
-
-Visual Studio solution file can be found [here.](https://github.com/Abhijith14/ModernCalculatorVB/tree/master/Project/Modern%20Calculator)
 
 
 ### Deployment
 
-After clonning [this repo](https://github.com/Abhijith14/ModernCalculatorVB.git), run Form1. Find the code in Form1.vb and Design in Form1.vb (Design).
+After clonning [this repo](https://github.com/RCLDevelopers/), run Form1. Find the code in Form1.vb and Design in Form1.vb (Design).
 
 ### Built With
 
@@ -44,7 +41,7 @@ After clonning [this repo](https://github.com/Abhijith14/ModernCalculatorVB.git)
 
 ### Authors
 
-* **Abhijith Udayakumar** - *Design & Development* - [Abhijith14](https://github.com/Abhijith14)
+* **Abhijith Udayakumar** - *Design & Development* - [Zangtics Digital](https://github.com/RCLDevelopers/)
 
 <br>
 <br>
@@ -58,11 +55,12 @@ I value keeping my work open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/ModernCalculatorVB](https://github.com/Abhijith14/ModernCalculatorVB). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Zangtics Digital/Digital-Clock](https://github.com/RCLDevelopers/Digital-Clock). Thanks!
 
 <br>
 
 ## 🎨 Color Reference
+
 
 | Color          | Hex                                                                | RGB		             |
 | -------------- | ------------------------------------------------------------------ |	------------------ |
